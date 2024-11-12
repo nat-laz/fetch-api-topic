@@ -105,4 +105,3 @@ document.addEventListener("DOMContentLoaded", async () => {
 ```
 
 3. Open the HTML file in a browser to see the Recipe Explorer in action.
-# fetch-api-topic
